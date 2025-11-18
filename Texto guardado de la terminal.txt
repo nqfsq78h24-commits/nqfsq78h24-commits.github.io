@@ -1,0 +1,62 @@
+Last login: Thu Nov 13 20:35:44 on ttys000
+pedro@Marii ~ % <!DOCTYPE html>
+<html>
+<head>
+<title>Interactivo Nones</title>
+<style>
+body {
+    background: #fff0f5;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.nones {
+    display: inline-block;
+    margin: 5px;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+pedro@Marii ~ % <!DOCTYPE html>
+<html>
+<head>
+<title>Interactivo Nones</title>
+<style>
+body {
+    background: #fff0f5;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.nones {
+    display: inline-block;
+    margin: 5px;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+.nones:hover { transform: scale(1.3); }
+pedro@Marii ~ % >....                                                           
+.c2 { background-color: #ffa500; color: #fff; }
+.c3 { background-color: #ffff66; color: #333; }
+.c4 { background-color: #ff69b4; color: #fff; }
+.c5 { background-color: #ff8c00; color: #fff; }
+</style>
+</head>
+<body>
+<h1>Números Nones Interactivos</h1>
+<div>
+<span class="nones c1">1</span>
+<span class="nones c2">3</span>
+<span class="nones c3">5</span>
+<span class="nones c4">7</span>
+<span class="nones c5">9</span>
+<span class="nones c1">11</span>
+<span class="nones c2">13</span>
+<span class="nones c3">15</span>
+<span class="nones c4">17</span>
+<span class="nones c5">19</span>
+</div>
+</body>
+</html>
+
